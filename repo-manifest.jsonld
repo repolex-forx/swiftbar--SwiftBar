@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/swiftbar/SwiftBar/commit/97f4f87dc90e668c7829f1ee4a6fb7988c47bc73",
       "git:hexsha": "97f4f87dc90e668c7829f1ee4a6fb7988c47bc73",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T22:03:59.070698+00:00"
     },
     {
       "@id": "https://repolex.ai/r/swiftbar/SwiftBar/commit/09da919488e089f0671728aa5fd86cc06036918a",
