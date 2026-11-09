@@ -1,0 +1,11 @@
+{
+  "org": "swiftbar",
+  "repo": "SwiftBar",
+  "versions": [
+    {
+      "commit": "97f4f87dc90e668c7829f1ee4a6fb7988c47bc73",
+      "tag": "",
+      "parsed_at": "2026-11-09T22:03:59.071455+00:00"
+    }
+  ]
+}
